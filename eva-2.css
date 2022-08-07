@@ -51,7 +51,7 @@ label i{
 label{
     display: none;
 }
-@media(max-width:350px){
+@media(max-width:900px){
     nav .menu ul{
         position: fixed;
         top: 80px;
